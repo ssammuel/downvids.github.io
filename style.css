@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    padding-left: 50px;
+    padding-top: 150px;
+    padding-right: 20px;
+}
+
+#title ul {
+    list-style-type: none;
+}
+
+#Down {
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 20px;
+    font-size: 150%;
+}
+
+#Down a {
+    text-decoration: none;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
